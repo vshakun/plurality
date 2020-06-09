@@ -1,6 +1,6 @@
 # CS50-PSet-3-Plurality
 
-A program that runs a plurality election, for Harvard's CS50 problems set 1.
+A program that runs a plurality election, for Harvard's CS50 problems set 3.
 
 ## Specifications:
 
